@@ -1,0 +1,8 @@
+{
+  "name": "build-my-own-webpack",
+  "version": "1.0.0",
+  "description": "Build webpack from the ground.",
+  "main": "index.js",
+  "author": "Seaborn Lee",
+  "license": "MIT"
+}
