@@ -4,5 +4,11 @@
   "description": "Build webpack from the ground.",
   "main": "index.js",
   "author": "Seaborn Lee",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^25.1.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
 }
